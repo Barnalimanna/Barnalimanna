@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Barnalimanna
-- 👀 I’m interested in Web design.
-- 🌱 I’m currently learning HTML & CSS.
+- 👀 I’m interested in Full Stack.
+- 🌱 I’m currently learning HTML,CSS,javascript,nodeJs,react.
 - 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me: mannabarnali294@gmail.com
 - 😄 Pronouns: she/her
